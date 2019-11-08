@@ -37,6 +37,7 @@ img[alt="Hotel Paraiso"] {
 }
 header ul {
     display: flex;
+    align-items: center;
 }
 header li a {
     /*color: rgb(6, 102, 172);*/
