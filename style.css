@@ -128,3 +128,10 @@ header li:last-child {
     align-items: center;
     padding: 100px 50px;
 }
+
+.conheca-o-hotel h3 {
+    font-size: 2rem;
+    margin-bottom: 35px;
+    color: #191c03;
+    text-align: center;
+}
