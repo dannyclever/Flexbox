@@ -78,3 +78,16 @@ header li:last-child {
         margin-bottom: 15px;
     }
 }
+
+/*HERO*/
+.hero {
+    background-image: url(img/_article_image_large_h5-RHMXd1ZQvvwd9l9vcXP4Ukn_cIiJYsy0csJ4d0Zg.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
