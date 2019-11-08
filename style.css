@@ -178,3 +178,15 @@ header li:last-child {
         flex-basis: 100%;
     }
 }
+
+/* CARACTERISTICAS */
+
+.caracteristicas  {
+    background-color: #191c03;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 50px;
+    position: relative;
+    top: 646px;
+}
