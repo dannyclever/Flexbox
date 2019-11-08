@@ -91,3 +91,13 @@ header li:last-child {
     flex-direction: column;
     text-align: center;
 }
+
+.hero h2 {
+    font-size: 3.2rem;
+    margin-bottom: 15px;
+ }
+ 
+ .hero h3 {
+     font-size: 2rem;
+     margin-bottom: 15px;
+ }
