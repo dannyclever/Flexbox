@@ -308,3 +308,15 @@ header li:last-child {
         margin-bottom: 15px;
     }
 }
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #191c03;
+    padding: 50px;
+    position: relative;
+    top: 604px;
+    align-items: center;
+}
