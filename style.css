@@ -172,3 +172,9 @@ header li:last-child {
 .conheca-o-hotel .grid  li.large {
     flex-basis: 60%;
 }
+
+@media (max-width: 700px) {
+    .conheca-o-hotel .grid  li.large, .conheca-o-hotel .grid  li.small {
+        flex-basis: 100%;
+    }
+}
