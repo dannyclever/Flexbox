@@ -210,3 +210,13 @@ header li:last-child {
     margin-bottom: 70px;
     border: none;
 }
+
+.caracteristicas  .grid {
+    width: 100%;
+    display: flex;
+}
+
+.caracteristicas  .grid li {
+    padding: 0 30px;
+    text-align: center;
+}
