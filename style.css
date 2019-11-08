@@ -135,3 +135,9 @@ header li:last-child {
     color: #191c03;
     text-align: center;
 }
+
+.conheca-o-hotel  p {
+    max-width: 800px;
+    margin-bottom: 35px;
+    color: #191c03;
+}
