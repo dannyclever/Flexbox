@@ -101,3 +101,12 @@ header li:last-child {
      font-size: 2rem;
      margin-bottom: 15px;
  }
+
+ .hero .btn {
+    background-color: #fff;
+    border-radius: 4px;
+    color: #191c03;
+    padding: 20px 50px;
+    text-transform: uppercase;
+    margin-top: 111px;
+ }
