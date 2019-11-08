@@ -32,3 +32,31 @@ header {
     background-color: #222222;
     position: fixed;
 }
+
+img[alt="Hotel Paraiso"] {
+    width: 200px;
+}
+header ul {
+    display: flex;
+}
+header li a {
+    /*color: rgb(6, 102, 172);*/
+    color: #F64521;
+}
+header li {
+    margin: 0 15px;
+}
+header li:first-child {
+    margin-left: 0;;
+}
+header li:last-child {
+    margin-right: 0;
+}
+.btn-nav {color: #ffffff;
+     font-size: 0.818em;
+     width: 108px;
+     padding: 2.5px 20px 2.5px 20px;
+     background-color: #c82d00;
+     border-radius: 2px;text-align: center;
+     cursor: pointer;
+}
